@@ -2,126 +2,256 @@
 
 ## Status
 
-Version: 0.1  
-Stage: Foundation Pattern
+Version: 1.0
+
+Stage: Intelligence Foundation
 
 ---
 
-# Definition
+# Purpose
 
-Autopilot Living™ is the experience of moving through life primarily through routines, expectations, and unconscious habits rather than conscious choice.
+Autopilot Living™ describes a state where a person moves through life primarily through existing habits, expectations, and learned responses without consciously observing the choices they are making.
 
-A person may continue making decisions, but without deeply examining why those decisions are being made.
+The purpose of identifying this pattern is not to judge or criticize.
+
+The purpose is to create awareness and restore conscious choice.
 
 ---
 
-# How It Appears
+# Pattern Overview
 
-A person experiencing Autopilot Living may:
+## What is Autopilot Living™?
 
-- follow expected paths without questioning them
-- feel disconnected from their choices
-- repeat familiar behaviours
-- prioritize external expectations over inner alignment
-- feel that time is passing without meaningful awareness
+Autopilot Living™ occurs when daily life is guided mostly by:
+
+- routines
+- external expectations
+- automatic reactions
+- familiar behaviours
+- inherited beliefs
+
+A person may continue moving forward while rarely pausing to ask:
+
+"Am I consciously choosing this, or am I simply repeating what I know?"
+
+---
+
+# Core Pattern
+
+## The Hidden Mechanism
+
+Beneath Autopilot Living™ there may be:
+
+- unexamined beliefs
+- unconscious habits
+- fear of uncertainty
+- attachment to familiar identities
+- limited self-awareness
+
+The person is not failing.
+
+They may simply be operating from patterns that were developed over time.
+
+---
+
+# How This Pattern Appears
+
+A person experiencing Autopilot Living™ may notice:
+
+## Thoughts
+
+- "This is just how life is."
+- "I never really questioned this."
+- "I don't know what I actually want."
+
+---
+
+## Behaviours
+
+- following routines without reflection
+- making decisions based only on expectations
+- repeating the same responses in similar situations
+
+---
+
+## Emotions
+
+- feeling disconnected
+- feeling stuck
+- experiencing uncertainty
+- sensing that something is missing
 
 ---
 
 # Possible Origins
 
-Autopilot Living can develop through:
+Autopilot Living™ may develop through:
 
-- survival experiences
+- repeated life experiences
 - social conditioning
-- fear of change
-- pressure to meet expectations
-- prolonged stress
-- lack of reflection
+- family expectations
+- workplace environments
+- survival-focused periods
+- avoiding difficult questions
 
----
-
-# Protective Function
-
-Autopilot is not a failure.
-
-It often develops as a way to create:
-
-- stability
-- predictability
-- safety
-- reduced mental effort
-
-The pattern may have helped a person survive or function during difficult periods.
-
----
-
-# Limitation
-
-When a person remains on autopilot for too long:
-
-They may lose connection with:
-
-- personal values
-- authentic desires
-- curiosity
-- intentional choices
+The Mirror™ should explore possibilities, not assume causes.
 
 ---
 
 # Awareness Shift
 
-FROM:
+## From
 
-"I am just living my life."
+Living inside patterns without noticing them.
 
-TO:
+## To
 
-"I can observe how I am living my life."
+Recognizing patterns and creating conscious choices.
 
 ---
 
 # Reflection Questions
 
-1. Am I making choices consciously or simply following what is expected?
+The Mirror™ may explore:
 
-2. What parts of my daily life have I never questioned?
+1. What parts of my life am I living automatically?
 
-3. Where am I repeating a pattern because it feels familiar?
+2. Which decisions have I made because I truly chose them?
 
-4. If I paused today, what would I notice about my life?
+3. What beliefs have I accepted without questioning?
+
+4. What questions about myself have I avoided exploring?
+
+5. If I stopped following expectations, what would I want to understand?
 
 ---
 
 # Connected Rooms
 
-Primary:
+Primary Room:
 
 Entrance Room™
 
-Future:
+Purpose:
 
-Identity Room™
-
-Blueprint Room™
+The first awareness point where a person begins observing their inner world.
 
 ---
 
-# Mirror AI Guidance
+# Connected Practices
 
-When this pattern appears, The Mirror should:
+First Practice:
 
-- create awareness without judgement
-- explore curiosity
-- help the person observe patterns
+First Door Practice™
 
-The Mirror should avoid:
+Purpose:
 
-- telling the person they are "stuck"
-- creating shame
-- assuming the reason behind the pattern
+Create intentional self-observation.
+
+---
+
+# Connected Journeys
+
+Primary Journey:
+
+Self Discovery Journey™
+
+Purpose:
+
+Guide a person from unconscious patterns toward deeper self-understanding.
+
+---
+
+# Mirror Guidance
+
+When The Mirror™ identifies possible Autopilot Living™, it should:
+
+## Encourage:
+
+- curiosity
+- reflection
+- awareness
+- exploration
+
+## Example Responses:
+
+"I wonder if this is a pattern you have been carrying for some time."
+
+"What would it be like to observe this part of your life with curiosity?"
+
+"Have you noticed this repeating in other situations?"
+
+---
+
+## Avoid:
+
+- "You are living incorrectly."
+- "This is your problem."
+- diagnosing the person
+- assuming their history
+
+---
+
+# Transformation Possibility
+
+Autopilot Living™ can transform:
+
+FROM:
+
+Automatic reaction
+
+↓
+
+TO:
+
+Conscious awareness
+
+---
+
+FROM:
+
+Following inherited patterns
+
+↓
+
+TO:
+
+Making intentional choices
+
+---
+
+# Related Patterns
+
+Future connections:
+
+- External Identity Attachment™
+- Fear of Change™
+- Avoidance Pattern™
 
 ---
 
 # Memory Anchor
 
-"Awareness begins when we notice the difference between living and choosing."
+"Awareness begins when we notice that we have been moving without looking."
+
+---
+
+# Source
+
+Based on:
+
+The House Within™
+
+Chapter 1 — The House Within™
+
+---
+
+# Current Status
+
+Version:
+
+1.0
+
+Stage:
+
+Intelligence Foundation
