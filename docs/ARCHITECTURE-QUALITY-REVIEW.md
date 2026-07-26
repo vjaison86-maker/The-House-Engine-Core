@@ -187,6 +187,23 @@ Review:
 - boundaries
 - safety principles
 
+  ## 7. Document Integrity Review
+
+Question:
+
+Does the document accurately represent the intended intelligence layer?
+
+Review:
+
+- outdated information
+- conflicting definitions
+- missing references
+- incomplete sections
+- inconsistent terminology
+
+A document should remain a reliable source of truth.
+
+
 ---
 
 # Component Quality Checklist
@@ -316,25 +333,57 @@ Current completed layers:
 
 
 Vision
+
 ↓
+
 Architecture
+
 ↓
+
 Knowledge Graph
+
 ↓
+
 Rooms
+
 ↓
+
 Patterns
+
 ↓
+
+Pattern Relationships
+
+↓
+
 Questions
+
 ↓
+
 Practices
+
 ↓
+
+Practice Framework
+
+↓
+
 Journeys
+
 ↓
+
+Journey Framework
+
+↓
+
 Mirror Intelligence
+
 ↓
+
 Memory
+
 ↓
+
 Evaluation
 
 
@@ -355,6 +404,28 @@ It should not:
 - create unnecessary complexity
 
 ---
+
+# Quality Gate
+
+Before adding a new component, confirm:
+
+## Required
+
+✅ Correct location
+
+✅ Clear purpose
+
+✅ Connected to existing layers
+
+✅ Consistent naming
+
+✅ Defined usage
+
+✅ Safety considerations included
+
+---
+
+A component should only become part of The House Engine™ when it strengthens the overall system.
 
 # Future Expansion
 
