@@ -6,6 +6,18 @@ Version: 0.1
 
 Stage: Foundation Audit
 
+# Audit Conclusion
+
+...
+
+- Audit Date:
+
+YYYY-MM-DD
+Example:
+Audit Date:
+
+2026-07-26
+
 ---
 
 # Purpose
@@ -210,7 +222,7 @@ Status:
 
 Purpose:
 
-Defines how information and context may be organized.
+Defines how contextual information, learning signals, and interaction history may be organized.
 
 ---
 
@@ -384,8 +396,8 @@ Future review:
 - memory retrieval logic
 - reflection pathways
 - conversation behaviour
-
-Defines how contextual information, learning signals, and interaction history may be organized.
+- contextual information handling
+- learning signal managementFuture review:
 
 ---
 
@@ -439,17 +451,6 @@ The architecture currently provides:
 - journey structures
 - AI guidance principles
 
-- Audit Date:
-
-YYYY-MM-DD
-Example:
-Audit Date:
-
-2026-07-26
-This helps compare:
-Audit v0.1
-Audit v0.2
-Audit v0.3
 
 Future development should focus on:
 
