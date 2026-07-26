@@ -1,7 +1,5 @@
 # Entrance Room™
 
-# Entrance Room™
-
 ## Status
 
 Version: 0.1  
@@ -27,8 +25,6 @@ The House Within™
 Chapter 1 — The House Within™
 
 ---
-
-# The Resident State
 
 # The Resident State
 
@@ -91,7 +87,9 @@ Becoming aware of the inner architecture shaping life.
 
 # Connected Patterns
 
-- Autopilot Living™
+Primary Pattern:
+
+Autopilot Living™
 
 ---
 
@@ -108,6 +106,12 @@ Becoming aware of the inner architecture shaping life.
 # Connected Practices
 
 First Door Practice™
+
+Self Discovery Journey™
+
+Purpose:
+
+Guide the person from initial awareness toward deeper self-understanding.
 
 ---
 
