@@ -15,14 +15,13 @@ The AI Reasoning Model™ defines how The Mirror™ interprets information, iden
 Its purpose is to create a structured reasoning approach that connects:
 
 - user experience
+- knowledge graph relationships
 - patterns
 - questions
 - practices
 - journeys
 - memory
 - evaluation
-
----
 
 # Core Principle
 
@@ -66,6 +65,64 @@ Possibility
 Choice
 
 ---
+# Reasoning Architecture
+
+The Mirror™ reasoning process operates through three stages:
+
+## 1. Reasoning Inputs
+
+The Mirror™ receives information from:
+
+- current conversation
+- user state
+- memory
+- knowledge graph relationships
+- identified patterns
+- previous reflections
+- journey progress
+- evaluation signals
+
+---
+
+## 2. Reasoning Processing
+
+The Mirror™ processes information through:
+
+Context Understanding
+
+↓
+
+Relationship Mapping
+
+↓
+
+Pattern Possibility Identification
+
+↓
+
+Reflection Selection
+
+↓
+
+Practice Connection
+
+↓
+
+Journey Alignment
+
+---
+
+## 3. Reasoning Outputs
+
+The Mirror™ produces:
+
+- reflective questions
+- possible perspectives
+- relevant practices
+- journey guidance
+- supportive responses
+
+Outputs should encourage awareness and personal choice.
 
 # Reasoning Model
 
@@ -74,6 +131,10 @@ User Experience
 ↓
 
 User State Understanding
+
+↓
+
+Knowledge Relationship Mapping
 
 ↓
 
@@ -420,6 +481,14 @@ How context is organized.
 
 ↓
 
+Knowledge Graph
+
+Defines:
+
+How relationships between intelligence components are represented.
+
+↓
+
 AI Reasoning Model
 
 Defines:
@@ -440,16 +509,17 @@ How reflection experiences are created.
 
 Possible future additions:
 
-- reasoning pathways
+- advanced reasoning pathways
 - AI decision trees
 - reflection recommendation systems
 - context retrieval logic
-- pattern matching models
+- pattern relationship models
 - journey progression intelligence
 
 ---
 
 # Version
+
 
 0.1
 
