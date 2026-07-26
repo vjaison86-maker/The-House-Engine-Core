@@ -385,6 +385,8 @@ Future review:
 - reflection pathways
 - conversation behaviour
 
+Defines how contextual information, learning signals, and interaction history may be organized.
+
 ---
 
 # Audit Findings
@@ -437,6 +439,18 @@ The architecture currently provides:
 - journey structures
 - AI guidance principles
 
+- Audit Date:
+
+YYYY-MM-DD
+Example:
+Audit Date:
+
+2026-07-26
+This helps compare:
+Audit v0.1
+Audit v0.2
+Audit v0.3
+
 Future development should focus on:
 
 - deeper connections
@@ -456,6 +470,19 @@ The next architecture audit should occur after:
 - product systems are connected
 
 ---
+
+# Audit Limitations
+
+This audit evaluates architectural structure.
+
+It does not yet evaluate:
+
+- real user outcomes
+- AI performance
+- psychological effectiveness
+- product-market validation
+
+These require future testing.
 
 # Version
 
