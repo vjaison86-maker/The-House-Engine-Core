@@ -4,109 +4,142 @@
 
 Version: 0.1
 
-Stage: Foundation
+Stage: Foundation Review
 
 ---
 
 # Purpose
 
-The Architecture Quality Review Framework™ defines how The House Engine™ architecture is reviewed, maintained, and improved over time.
+The Architecture Quality Review Framework™ defines how The House Engine™ architecture is reviewed, maintained, and improved.
 
-The purpose is to ensure that new documents, frameworks, patterns, practices, and intelligence layers remain connected to the overall system.
+Its purpose is to ensure that all components remain:
 
-Quality review protects the integrity of the architecture as it expands.
+- connected
+- consistent
+- purposeful
+- understandable
+- aligned with the core vision
+
+The review protects the integrity of the architecture as the system expands.
 
 ---
 
 # Core Principle
 
-## Growth Requires Alignment
+## Expansion Requires Alignment
 
-A growing system needs more than additional knowledge.
+A growing architecture must maintain clarity.
 
-It requires:
+New components should not only add information.
 
-- consistency
-- connection
-- clarity
-- intentional design
-
-Every new component should strengthen the architecture.
+They should strengthen the overall system.
 
 ---
 
-# Quality Review Objectives
+# Review Scope
 
 The Architecture Quality Review evaluates:
 
-- structural consistency
-- naming consistency
-- connection accuracy
-- conceptual alignment
-- user experience flow
-- AI interpretation quality
+- documents
+- frameworks
+- rooms
+- patterns
+- questions
+- practices
+- journeys
+- mirror intelligence
+- AI systems
+- products
 
 ---
 
-# Review Model
-
-New Component
+# Quality Review Model
+Component Added
 ↓
 Structure Review
 ↓
-Connection Review
+Purpose Review
 ↓
 Naming Review
 ↓
-Purpose Review
+Connection Review
 ↓
-Integration Review
+Intelligence Review
+↓
+Safety Review
 ↓
 Approval
 
 
 ---
 
-# Quality Review Areas
+# Review Areas
 
 ## 1. Structure Review
 
 Question:
 
-Does the component exist in the correct layer?
+Does the component exist in the correct location?
 
-Example:
+Examples:
 
-A pattern should belong in:
+Rooms:
+
+rooms/
+
+Patterns:
 
 patterns/
 
+Questions:
 
-A journey should belong in:
+questions/
+
+Practices:
+
+practices/
+
+Journeys:
 
 journeys/
 
-
-A framework should belong in:
+Frameworks:
 
 docs/
 
+---
+
+# 2. Purpose Review
+
+Every component should clearly define:
+
+## Identity
+
+What is this?
+
+## Purpose
+
+Why does this exist?
+
+## Role
+
+What function does it perform?
+
+## Connection
+
+How does it connect with other layers?
 
 ---
 
-## 2. Naming Review
+# 3. Naming Review
 
-Question:
+Check:
 
-Are names consistent across the system?
-
-Review:
-
-- file names
-- display names
-- trademark usage
-- capitalization
+- file naming
+- display naming
 - terminology
+- trademark consistency
+- capitalization
 
 Example:
 
@@ -120,30 +153,14 @@ Self-Discovery-Journey.md
 
 ---
 
-## 3. Purpose Review
+# 4. Connection Review
 
-Question:
+Every component should connect to the architecture.
 
-Does the component have a clear purpose?
+Primary flow:
 
-Every component should explain:
-
-- why it exists
-- what problem it addresses
-- how it connects to other layers
-
----
-
-## 4. Connection Review
-
-Question:
-
-Does the component connect to the larger architecture?
-
-
-Example:
-
-
+Room
+↓
 Pattern
 ↓
 Question
@@ -153,28 +170,16 @@ Practice
 Journey
 ↓
 Mirror
+↓
+Memory
+↓
+Evaluation
 
-
-A component should not exist in isolation.
-
----
-
-## 5. User Experience Review
-
-Question:
-
-Does this improve the person's journey?
-
-Review:
-
-- clarity
-- accessibility
-- reflection quality
-- usefulness
+A component should not exist without a relationship.
 
 ---
 
-## 6. AI Intelligence Review
+# 5. Intelligence Review
 
 Question:
 
@@ -184,136 +189,117 @@ Review:
 
 - context
 - relationships
+- intended usage
 - boundaries
 - safety principles
 
-  ## 7. Document Integrity Review
+---
+
+# 6. User Experience Review
 
 Question:
 
-Does the document accurately represent the intended intelligence layer?
+Does this improve the human experience?
+
+Review:
+
+- clarity
+- reflection quality
+- usefulness
+- accessibility
+- emotional safety
+
+---
+
+# 7. Document Integrity Review
+
+Question:
+
+Does the documentation remain accurate?
 
 Review:
 
 - outdated information
 - conflicting definitions
 - missing references
+- duplicated concepts
 - incomplete sections
-- inconsistent terminology
 
-A document should remain a reliable source of truth.
-
+Each document should remain a reliable source of truth.
 
 ---
 
-# Component Quality Checklist
+# Architecture Quality Checklist
 
-Every new component should answer:
+Before approving a new component:
 
-## Identity
+## Structure
 
-What is this?
+☐ Correct folder location
+
+☐ Correct layer ownership
 
 ---
 
-## Purpose
+## Meaning
 
-Why does this exist?
+☐ Clear purpose
+
+☐ Clear definition
+
+☐ Clear boundaries
 
 ---
 
 ## Connection
 
-Where does it connect?
+☐ Connected to existing architecture
+
+☐ Relationship documented
+
+☐ Knowledge graph updated if required
 
 ---
 
-## Usage
+## Intelligence
 
-How is it used?
+☐ Mirror usage defined
 
----
+☐ AI interpretation considered
 
-## Safety
-
-What should it avoid?
+☐ Safety principles included
 
 ---
 
-## Future Expansion
+## Quality
 
-How can it evolve?
+☐ Naming consistent
 
----
+☐ No unnecessary duplication
 
-# Architecture Consistency Rules
-
-The House Engine™ should maintain:
-
-## One Source Of Meaning
-
-Each concept should have a clear home.
-
----
-
-## Clear Layer Ownership
-
-Examples:
-
-Patterns define:
-
-"What influences experience."
-
-Practices define:
-
-"What creates exploration."
-
-Journeys define:
-
-"How experiences connect over time."
-
-Mirror defines:
-
-"How reflection is supported."
-
----
-
-## Avoid Duplication
-
-Similar concepts should not be created in multiple locations without purpose.
-
----
-
-# Review Frequency
-
-Architecture reviews may happen:
-
-- after major framework additions
-- after new intelligence layers
-- before product creation
-- before AI implementation
+☐ Future expansion considered
 
 ---
 
 # Review Levels
 
-## Level 1 — Basic Review
+## Level 1 — Structural Review
 
 Checks:
 
-- file location
-- naming
+- location
 - formatting
+- naming
 
 ---
 
-## Level 2 — Connection Review
+## Level 2 — Architecture Review
 
 Checks:
 
 - relationships
 - dependencies
-- layer alignment
+- alignment
 
 ---
 
@@ -321,121 +307,91 @@ Checks:
 
 Checks:
 
-- AI interpretation
-- Mirror behaviour
+- AI behaviour
+- Mirror guidance
 - user experience
 
 ---
 
-# Current Architecture Review
+# Current Architecture Review Status
 
-Current completed layers:
+Completed:
 
+✅ Vision Layer
 
-Vision
+✅ Architecture Layer
 
-↓
+✅ Knowledge Graph
 
-Architecture
+✅ Room Layer
 
-↓
+✅ Pattern Layer
 
-Knowledge Graph
+✅ Question Layer
 
-↓
+✅ Practice Layer
 
-Rooms
+✅ Journey Layer
 
-↓
+✅ Mirror Layer
 
-Patterns
+✅ Memory Layer
 
-↓
-
-Pattern Relationships
-
-↓
-
-Questions
-
-↓
-
-Practices
-
-↓
-
-Practice Framework
-
-↓
-
-Journeys
-
-↓
-
-Journey Framework
-
-↓
-
-Mirror Intelligence
-
-↓
-
-Memory
-
-↓
-
-Evaluation
-
+✅ Evaluation Layer
 
 ---
 
-# Review Principles
+# Current Architecture Flow
+
+Vision
+↓
+Architecture
+↓
+Knowledge Graph
+↓
+Room
+↓
+Pattern
+↓
+Question
+↓
+Practice
+↓
+Journey
+↓
+Mirror Intelligence
+↓
+Memory
+↓
+Evaluation
+
+---
+
+# Review Philosophy
 
 The Architecture Quality Review should:
 
 - improve clarity
 - protect consistency
-- encourage thoughtful expansion
+- support growth
 
 It should not:
 
-- prevent creativity
+- restrict creativity
+- create unnecessary bureaucracy
 - slow meaningful development
-- create unnecessary complexity
 
 ---
-
-# Quality Gate
-
-Before adding a new component, confirm:
-
-## Required
-
-✅ Correct location
-
-✅ Clear purpose
-
-✅ Connected to existing layers
-
-✅ Consistent naming
-
-✅ Defined usage
-
-✅ Safety considerations included
-
----
-
-A component should only become part of The House Engine™ when it strengthens the overall system.
 
 # Future Expansion
 
-Future versions may include:
+Possible future additions:
 
-- automated architecture checks
+- automated architecture validation
 - AI documentation review
-- dependency mapping
-- version tracking
+- dependency visualization
 - architecture scoring
+- version management
 
 ---
 
@@ -445,6 +401,6 @@ Future versions may include:
 
 Stage:
 
-Foundation
+Foundation Review
 
 
