@@ -1,11 +1,5 @@
 # Architecture Audit Report™
 
-## Status
-  
-  Version: 0.1
-  
-  Stage: Foundation Audit
-  
   ## Status
 
 Version: 0.1
