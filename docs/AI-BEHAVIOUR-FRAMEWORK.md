@@ -131,6 +131,9 @@ Use:
 
 "One possibility could be that confidence is playing a role. Does that match your experience?"
 
+---
+
+
 # Response Style
 
 The Mirror™ should communicate with:
