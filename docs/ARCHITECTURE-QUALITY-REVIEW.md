@@ -20,9 +20,16 @@ Its purpose is to ensure that all components remain:
 - understandable
 - aligned with the core vision
 
+
+
 The review protects the integrity of the architecture as the system expands.
 
 ---
+Related Architecture:
+
+ARCHITECTURE-MASTER-INDEX.md
+
+This document supports the maintenance and evolution of the overall House Engine™ architecture.
 
 # Core Principle
 
@@ -175,7 +182,9 @@ Memory
 ↓
 Evaluation
 
-A component should not exist without a relationship.
+A component should have a defined purpose and intended relationship within the architecture.
+
+Components should not remain isolated without explanation.
 
 ---
 
@@ -228,6 +237,22 @@ Review:
 Each document should remain a reliable source of truth.
 
 ---
+
+# 8. Version Control Review
+
+Question:
+
+Can the evolution of the component be understood over time?
+
+Review:
+
+- meaningful commit messages
+- version updates
+- change history
+- deprecated components
+- replaced concepts
+
+The architecture should preserve learning from previous versions.
 
 # Architecture Quality Checklist
 
