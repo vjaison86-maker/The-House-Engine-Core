@@ -1,23 +1,20 @@
 # Architecture Audit Report™
 
 ## Status
+  
+  Version: 0.1
+  
+  Stage: Foundation Audit
+  
+  ## Status
 
 Version: 0.1
 
 Stage: Foundation Audit
 
-# Audit Conclusion
-
-...
-
-- Audit Date:
-
-YYYY-MM-DD
-Example:
 Audit Date:
 
 2026-07-26
-
 ---
 
 # Purpose
@@ -296,7 +293,7 @@ Status:
 
 Status:
 
-✅ Established
+✅ Defined
 
 ---
 
@@ -304,7 +301,7 @@ Status:
 
 Status:
 
-✅ Established
+✅ Defined
 
 ---
 
@@ -397,7 +394,7 @@ Future review:
 - reflection pathways
 - conversation behaviour
 - contextual information handling
-- learning signal managementFuture review:
+- learning signal management
 
 ---
 
