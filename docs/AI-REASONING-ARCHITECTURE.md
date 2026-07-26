@@ -65,6 +65,7 @@ Possibility
 Choice
 
 ---
+
 # Reasoning Architecture
 
 The Mirror™ reasoning process operates through three stages:
@@ -92,7 +93,7 @@ Context Understanding
 
 ↓
 
-Relationship Mapping
+Knowledge Relationship Mapping
 
 ↓
 
@@ -138,7 +139,7 @@ Knowledge Relationship Mapping
 
 ↓
 
-Pattern Recognition
+Pattern Possibility Recognition
 
 ↓
 
@@ -163,6 +164,10 @@ Memory Learning
 ↓
 
 Evaluation
+
+↓
+
+Reasoning Improvement
 
 ---
 
@@ -519,7 +524,6 @@ Possible future additions:
 ---
 
 # Version
-
 
 0.1
 
