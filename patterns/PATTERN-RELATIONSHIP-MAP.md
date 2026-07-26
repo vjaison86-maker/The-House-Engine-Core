@@ -91,8 +91,15 @@ Intentional Choice
 
 # Pattern Relationships
 
-## Autopilot Living™ → Identity Attachment™
-
+## Autopilot Living™
+        ↓
+Identity Attachment™
+        ↓
+External Validation™
+        ↓
+Avoidance Pattern™
+        ↓
+Intentional Choice
 ### Relationship
 
 Automatic living may be influenced by unconscious identities.
@@ -181,7 +188,6 @@ Return To Existing Identity
 
 # Pattern Awareness Cycle
 
-The House Engine™ aims to support movement from:
 
 Unnoticed Pattern
 ↓
