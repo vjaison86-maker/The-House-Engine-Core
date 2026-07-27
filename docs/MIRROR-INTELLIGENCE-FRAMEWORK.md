@@ -14,16 +14,20 @@ The Mirror Intelligence Framework™ defines the overall intelligence architectu
 
 Its purpose is to describe how different intelligence capabilities work together to create a reflective, adaptive, and human-centred AI experience.
 
-The Mirror™ does not exist to provide answers alone.
+---
 
-The Mirror™ exists to help people:
+# Intelligence Orchestration Principle
 
-- understand their experiences
-- recognise patterns
-- explore possibilities
-- make conscious choices
-- move through personal journeys
+The Mirror Intelligence Framework™ does not represent independent modules.
 
+The intelligence layers work together through orchestration.
+
+The system determines:
+
+- which intelligence layer is relevant
+- when information should be retrieved
+- how different intelligence signals should combine
+- how guidance should remain aligned with The Mirror™ principles
 ---
 
 # Core Principle
@@ -49,19 +53,21 @@ The intelligence system should seek understanding before providing guidance.
 The Mirror Intelligence Framework™ consists of interconnected intelligence layers:
 
 Mirror Intelligence Framework™
-    |
-    |
-|              |               |
-Behaviour   Reasoning      Decision
-Intelligence Intelligence Intelligence
-    |
-    |
-|              |               |
-Memory     Knowledge       Journey
-Intelligence Graph         Intelligence
-    |
-    |
-|
+
+                |
+                |
+ ------------------------------------------------
+ |              |              |
+Behaviour    Reasoning     Decision
+Intelligence Intelligence  Intelligence
+
+ ------------------------------------------------
+ |              |              |
+Memory       Knowledge      Journey
+Intelligence Graph          Intelligence
+
+                |
+                |
 Evaluation Intelligence
 
 ---
@@ -156,7 +162,7 @@ AI-MEMORY-ARCHITECTURE.md
 
 Purpose:
 
-Defines relationships between intelligence components.
+Defines relationships between knowledge, experiences, patterns, practices, and intelligence components.
 
 The Knowledge Graph connects:
 
@@ -210,30 +216,50 @@ Evaluation may consider:
 - user experience
 - response alignment
 
+Connected Component:
+
+AI-EVALUATION-FRAMEWORK.md
+
 ---
 
 # Intelligence Flow Model
 
-The Mirror™ operates through:
-
 Experience
+
 ↓
-Context Understanding
-↓
-Knowledge Relationship Mapping
-↓
-Reasoning
-↓
-Decision Selection
-↓
+
 Behaviour Alignment
+
 ↓
+
+Context Understanding
+
+↓
+
+Knowledge Relationship Mapping
+
+↓
+
+Reasoning
+
+↓
+
+Decision Selection
+
+↓
+
 Reflection Response
+
 ↓
+
 User Experience
+
 ↓
+
 Learning Capture
+
 ↓
+
 System Improvement
 
 ---
