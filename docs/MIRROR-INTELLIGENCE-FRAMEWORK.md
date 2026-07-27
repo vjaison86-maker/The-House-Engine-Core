@@ -14,6 +14,8 @@ The Mirror Intelligence Framework™ defines the overall intelligence architectu
 
 Its purpose is to describe how different intelligence capabilities work together to create a reflective, adaptive, and human-centred AI experience.
 
+The framework acts as the coordination layer between individual intelligence capabilities.
+
 ---
 
 # Intelligence Orchestration Principle
@@ -21,6 +23,8 @@ Its purpose is to describe how different intelligence capabilities work together
 The Mirror Intelligence Framework™ does not represent independent modules.
 
 The intelligence layers work together through orchestration.
+
+Orchestration allows intelligence capabilities to contribute at the appropriate moment rather than operating independently.
 
 The system determines:
 
@@ -224,6 +228,7 @@ AI-EVALUATION-FRAMEWORK.md
 
 # Intelligence Flow Model
 
+
 Experience
 
 ↓
@@ -261,6 +266,15 @@ Learning Capture
 ↓
 
 System Improvement
+
+---
+
+Behaviour Alignment ensures that every intelligence process remains consistent with The Mirror™ principles:
+
+- curiosity over assumption
+- awareness over advice
+- possibility over prediction
+- choice over control
 
 ---
 
