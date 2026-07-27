@@ -400,11 +400,11 @@ How information is interpreted.
 
 ↓
 
-AI Decision Flow
+AI Decision Flow™
 
 Defines:
 
-How actions are selected.
+How The Mirror™ selects the next appropriate response pathway based on reasoning, context, and user state.
 
 ↓
 
