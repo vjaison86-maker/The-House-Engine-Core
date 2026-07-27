@@ -28,7 +28,7 @@ The Mirror™ exists to help people:
 
 # Core Principle
 
-## Intelligence Before Interaction
+## Understanding Before Intelligence Action
 
 The Mirror™ experience is created through the combination of:
 
@@ -225,6 +225,8 @@ Knowledge Relationship Mapping
 Reasoning
 ↓
 Decision Selection
+↓
+Behaviour Alignment
 ↓
 Reflection Response
 ↓
